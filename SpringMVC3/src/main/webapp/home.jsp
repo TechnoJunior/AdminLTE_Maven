@@ -254,7 +254,7 @@
                 <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce - Web Developer
+                  TechnoBoy - Web Developer
                   <small>Member since Nov. 2012</small>
                 </p>
               </li>
